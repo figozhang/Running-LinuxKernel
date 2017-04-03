@@ -1,9 +1,9 @@
 # Running-LinuxKernel
-奔跑吧linux内核，预计2017年暑假期间和大家见面，敬请关注！
+《奔跑吧Linux内核》，预计2017年暑假期间和大家见面，敬请关注！
 
 
 hi all：
-最近在整理一本比较新Linux内核版本（Linux4.X内核，以及Android 7.1.1内核）的中文小册子，目前规划如下几章：
+《奔跑吧Linux内核》（Linux4.X内核，以及Android 7.1.1内核）主要有如下几章：
 
 1. ARM体系结构
 2. 内存管理 
