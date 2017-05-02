@@ -21,6 +21,8 @@ Android 7.1.1内核于2016年12月刚发布。
 
 
 我的联系方式：runninglinuxkernel@126.com，微信公众号/微博：奔跑吧Linux内核
+
+
 建了一个讨论内核的技术群，要加群请先加微信：runninglinuxkernel
 
 
