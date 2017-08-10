@@ -1,5 +1,13 @@
 # Running-LinuxKernel
-《奔跑吧Linux内核》，预计很快与大家见面，敬请关注！ 预计8月预售！！
+
+《奔跑吧Linux内核》经过了2个多月的等待，已经在几大网店上开启预售啦！
+
+京东：http://item.jd.com/12152745.html?dist=jd
+亚马逊：https://www.amazon.cn/dp/B074JV6WGN/ref=sr_1_1?ie=UTF8&qid=1502099486&sr=8-1
+异步社区：http://www.epubit.com.cn/book/details/4835
+当当：http://product.dangdang.com/25138842.htm
+
+最新样章下载： http://www.epubit.com.cn/book/details/4835，点击“下载PDF样章”
 
 《奔跑吧Linux内核》（Linux4.X内核，以及Android 7.1.1内核）主要有如下几章：
 
