@@ -1,25 +1,28 @@
 # Running-LinuxKernel
 
-《奔跑吧Linux内核》经过了2个多月的等待，已经在几大网店上开启预售啦！
 
-京东：http://item.jd.com/12152745.html?dist=jd
 
-亚马逊：https://www.amazon.cn/dp/B074JV6WGN/ref=sr_1_1?ie=UTF8&qid=1502099486&sr=8-1
+1. 《奔跑吧linux内核》配套视频教学已经上线淘宝了。
+淘宝地址：https://shop115683645.taobao.com/
 
-异步社区：http://www.epubit.com.cn/book/details/4835
+很多小伙伴希望笨叔出一套《奔跑吧》配套的视频，为此笨叔利用业余时间正在拍摄 第一季视频节目，第一季的主要内容是《奔跑吧》第二章内容以及内存管理相关扩展。
 
-当当：http://product.dangdang.com/25138842.htm
+配套视频的亮点：
+*最有深度和广度的linux内核视频节目
+*手把手解读Linux内核源代码
+*紧跟linux内核社区技术热点
+*一键订阅，持续更新
+*图书+视频，全新学习模式
+*笨叔VIP私密群答疑
 
-最新样章下载： http://www.epubit.com.cn/book/details/4835，点击“下载PDF样章”
-
+2. 《奔跑吧linux内核》介绍
 《奔跑吧Linux内核》（Linux4.X内核，以及Android 7.1.1内核）主要有如下几章：
-
-1. ARM体系结构
-2. 内存管理 
-3. 进程调度 
-4. 中断管理
-5. 锁 
-6. 调试技巧 
+*ARM体系结构
+*内存管理 
+*进程调度 
+*中断管理
+*锁 
+*调试技巧 
 
 Android 7.1.1内核于2016年12月刚发布。
 小册子的风格类似《Linux内核情景分析》。
@@ -30,9 +33,15 @@ Android 7.1.1内核于2016年12月刚发布。
 
 毛德操和胡希明老师著的《Linux内核源代码情景分析》是中国Linux内核发展史上一个永恒的经典，本书为这两位老学者致敬。此时此刻脑海里响起了哥哥的一首歌，“一追再追 只想追赶生命里 一分一秒”，愿和大家一起奔跑、一起追赶、不浪费生命一分一秒。
 
-
+3. 官方微信公众号
 我的联系方式：runninglinuxkernel@126.com，微信公众号/微博：奔跑吧Linux内核
 建了一个讨论内核的技术群，要加群请先加微信：runninglinuxkernel
 
 笨叔叔简介：笨叔叔，90后憨厚中年男子，紫竹某小公司的小FAE。虽笨手笨脚，每日坚持奔跑。社区吃瓜群众，但热爱开源技术，闲暇之余写点linux小段子。
+
+4. 《奔跑吧》配套代码
+https://github.com/figozhang/runninglinuxkernel_4.0
+
+很多朋友反馈github下载太慢，我上传了一个不带git信息的网盘上：
+https://pan.baidu.com/s/1jKkYIdo
 
